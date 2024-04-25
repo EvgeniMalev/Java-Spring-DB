@@ -1,0 +1,8 @@
+CREATE TABLE `car` (
+  `id` int(11) unsigned NOT NULL,
+  `name` varchar(20) DEFAULT NULL,
+  `model` varchar(20) DEFAULT NULL,
+  `year` int(11) unsigned NOT NULL,
+  `engine` double(4) unsigned NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
