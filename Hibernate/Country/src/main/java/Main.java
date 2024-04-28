@@ -1,4 +1,3 @@
-import entities.Student;
 import entities.Towns;
 
 import org.hibernate.Session;
