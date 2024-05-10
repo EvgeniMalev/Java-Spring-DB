@@ -1,0 +1,6 @@
+CREATE TABLE `footballteam` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `playername` varchar(45) NOT NULL,
+  `number` INT,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
