@@ -1,0 +1,14 @@
+<tree crown="crown">
+  <treename>tree</treename>
+  <treeheight>1.8</treeheight>
+  <classtree>Fraser Fir</classtree>
+  <season>Spring</season>
+  <messages>
+    <singleMessage>
+      <content>The origins of the tree are the Balkans</content>
+    </singleMessage>
+    <singleMessage>
+      <content>The tree habits above 2000 m</content>
+    </singleMessage>
+  </messages>
+</tree>
